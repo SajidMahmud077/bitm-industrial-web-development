@@ -1,0 +1,22 @@
+.div-1{
+    height: 250px;
+    width:250px;
+    background-color: red;
+    float: left;
+}
+.div-2{
+    height:250px;
+    width:250px;
+    background-color: rgb(166, 255, 0);
+    float: left;
+}
+.div-3{
+    height:250px;
+    width:250px;
+    background-color: aqua;
+    float:left;
+}
+.div-container{
+    display: flex;
+    justify-content:space-evenly;
+}
